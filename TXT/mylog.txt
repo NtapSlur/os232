@@ -1,8 +1,10 @@
 ZCZC W01 100 L02 Joining class on site on Tuesday
 ZCZC W01 100 L02 Joining class on site on Thursday
+ZCZC W01 60 L05 Read the OS TextBook to study for the week0 quiz
 ZCZC W01 90 L09 Weekly Assignment 1 Setting Debian Virtual Box and the Github SSH
 ZCZC W01 10 L32 Watched some useful commands for Linux
 ZCZC W01 5 L32 Watched a video about Nano Editor
+ZCZC W01 16 L32 Watched a video about REGEX
 ZCZC W00 15 L03 Making new repository for GitHub
 ZCZC W00 10 L05 Setting up SEB dan taking the dummy quiz
 ZCZC W00 100 L02 Joining class on site on Tuesday
