@@ -1,3 +1,9 @@
+ZCZC W02 100 L02 Joining class on site on Tuesday
+ZCZC W02 100 L02 Joining class on site on Thursday
+ZCZC W02 50 L05 Read the OS TextBook to study for the week2 quiz
+ZCZC W02 60 L09 Weekly Assignment 2 Prepared the GPG, did the demo, and did the script downloading one
+ZCZC W02 10 L12 Made the WEEK02.sh
+ZCZC W02 15 L12 Ranked my top 3 LINKS
 ZCZC W01 100 L02 Joining class on site on Tuesday
 ZCZC W01 100 L02 Joining class on site on Thursday
 ZCZC W01 60 L05 Read the OS TextBook to study for the week0 quiz
