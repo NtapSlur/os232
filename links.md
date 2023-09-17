@@ -10,5 +10,8 @@ This is good for those who are not familiar with Linux.
 
 * [Perintah Dasar Linux | Perintah Linux #21 - NANO PART I] (https://www.youtube.com/watch?v=wGZXgVesNxY) ---
 A simple Linux command line text editor that is really good for beginners (At least for me :D)
+
+* [C Programming Tutorial for Beginners] (https://www.youtube.com/watch?v=KJgsSFOSQv0) ---
+A C language course that teaches most of the basics of C, including data type, memory addressing, and pointer
 <br>
 <hr>
