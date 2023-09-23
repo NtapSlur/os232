@@ -13,5 +13,9 @@ A simple Linux command line text editor that is really good for beginners (At le
 
 * [C Programming Tutorial for Beginners] (https://www.youtube.com/watch?v=KJgsSFOSQv0) ---
 A C language course that teaches most of the basics of C, including data type, memory addressing, and pointer
+
+* [Linux Directories Explained in 100 Seconds] (https://www.youtube.com/watch?v=42iQKuQodW4) ---
+A quick video to learn about Linux's Filesystem Hierarchy Standard and common Linux directories
+
 <br>
 <hr>
