@@ -1,3 +1,8 @@
+ZCZC W04 100 L02 Joined class on site on Tuesday
+ZCZC W04 100 L02 Joined class on site on the next Tuesday
+ZCZC W04 60 L09 Did the weekly assignment 4
+ZCZC W04 20 L12 Ranked the top 3 links
+ZCZC W04 100 L05 Read the OS TextBook
 ZCZC W03 100 L02 Joined class on site on Tuesday
 ZCZC W03 100 L02 Joined class on site on Thursday
 ZCZC W03 60 L05 Read the OS TextBook to study for the week3 quiz

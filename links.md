@@ -17,5 +17,8 @@ A C language course that teaches most of the basics of C, including data type, m
 * [Linux Directories Explained in 100 Seconds] (https://www.youtube.com/watch?v=42iQKuQodW4) ---
 A quick video to learn about Linux's Filesystem Hierarchy Standard and common Linux directories
 
+* [Memory Management, Operating Systems Part 1] (https://www.youtube.com/watch?v=Ji-iHv96-uU) ---
+A video to learn about Memory Management, although this is only the first part of the topic
+
 <br>
 <hr>
