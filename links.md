@@ -20,5 +20,8 @@ A quick video to learn about Linux's Filesystem Hierarchy Standard and common Li
 * [Memory Management, Operating Systems Part 1] (https://www.youtube.com/watch?v=Ji-iHv96-uU) ---
 A video to learn about Memory Management, although this is only the first part of the topic
 
+* [Virtual Memory] (https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=LrsNhWdRS_Crvx_P) ---
+A playlist to learn about virtual memory
+
 <br>
 <hr>
