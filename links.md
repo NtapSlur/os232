@@ -23,5 +23,11 @@ A video to learn about Memory Management, although this is only the first part o
 * [Virtual Memory] (https://youtube.com/playlist?list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX&si=LrsNhWdRS_Crvx_P) ---
 A playlist to learn about virtual memory
 
+* [The fork() function in C] (https://www.youtube.com/watch?v=cex9XrZCU14) ---
+A video that teaches about fork
+
+* [fork() and exec() System Calls] (https://www.youtube.com/watch?v=IFEFVXvjiHY) ---
+A video that teaches you about fork and also exec (this might be helpful!)
+
 <br>
 <hr>
