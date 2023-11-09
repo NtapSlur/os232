@@ -29,5 +29,11 @@ A video that teaches about fork
 * [fork() and exec() System Calls] (https://www.youtube.com/watch?v=IFEFVXvjiHY) ---
 A video that teaches you about fork and also exec (this might be helpful!)
 
+* [Process Synchronization | Chapter-6 | Operating System] (https://www.youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) ---
+A complete playlist to learn about synchronization (semaphores, critical section, etc)
+
+* [What is a semaphore? How do they work? (Example in C)] (https://www.youtube.com/watch?v=ukM_zzrIeXs) ---
+A video that teaches about semaphore and its implementation in C
+
 <br>
 <hr>
