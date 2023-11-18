@@ -35,5 +35,11 @@ A complete playlist to learn about synchronization (semaphores, critical section
 * [What is a semaphore? How do they work? (Example in C)] (https://www.youtube.com/watch?v=ukM_zzrIeXs) ---
 A video that teaches about semaphore and its implementation in C
 
+* [CPU Scheduling Algorithms - Operating Systems] (https://www.youtube.com/playlist?list=PLIY8eNdw5tW_lHyageTADFKBt9weJXndE) ---
+A playlist to learn about CPU Scheduling
+
+* [LFS 12.0 - How to build Linux From Scratch 12.0] (https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+A complete playlist of walkthrough on LFS Week 8 - 10 (This is really helpful!!!)
+
 <br>
 <hr>
